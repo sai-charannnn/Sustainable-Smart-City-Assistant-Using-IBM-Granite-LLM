@@ -1,9 +1,9 @@
-fastapi
-uvicorn
-streamlit
-pandas
-scikit-learn
-python-dotenv
-transformers
-torch
-scipy
+ fastapi
+ uvicorn
+ streamlit
+ pandas
+ scikit-learn
+ python-dotenv
+ transformers
+ torch
+ scipy
